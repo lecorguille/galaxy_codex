@@ -1,0 +1,153 @@
+id: tutorials
+title: Community curated tutorials
+tabs:
+- id: fair_data
+  title: FAIR Data
+  heading_md: 'Top 10 most visited tutorials for the Topic : FAIR Data'
+  content:
+  - title_md: "DataPLANT ARCs\n (Visitors: 1767844)"
+    description_md: Tutorial stored in FAIR Data, Workflows, and Research topic 
+      on the Galaxy Training Network and covering topics related to nan
+    button_link: 
+      https://training.galaxyproject.org//topics/fair/tutorials/dataplant-arcs/tutorial.html
+    button_tip: View tutorial
+    button_icon: tutorial
+  - title_md: "FAIR in a nutshell\n (Visitors: 1087)"
+    description_md: Tutorial stored in FAIR Data, Workflows, and Research topic 
+      on the Galaxy Training Network and covering topics related to nan
+    button_link: 
+      https://training.galaxyproject.org//topics/fair/tutorials/fair-intro/tutorial.html
+    button_tip: View tutorial
+    button_icon: tutorial
+  - title_md: "FAIR data management solutions\n (Visitors: 479)"
+    description_md: Tutorial stored in FAIR Data, Workflows, and Research topic 
+      on the Galaxy Training Network and covering topics related to nan
+    button_link: 
+      https://training.galaxyproject.org//topics/fair/tutorials/data-management/tutorial.html
+    button_tip: View tutorial
+    button_icon: tutorial
+  - title_md: "Making clinical datasets FAIR\n (Visitors: 437)"
+    description_md: Tutorial stored in FAIR Data, Workflows, and Research topic 
+      on the Galaxy Training Network and covering topics related to nan
+    button_link: 
+      https://training.galaxyproject.org//topics/fair/tutorials/fair-clinical/tutorial.html
+    button_tip: View tutorial
+    button_icon: tutorial
+  - title_md: "FAIRification of an RNAseq dataset\n (Visitors: 385)"
+    description_md: Tutorial stored in FAIR Data, Workflows, and Research topic 
+      on the Galaxy Training Network and covering topics related to nan
+    button_link: 
+      https://training.galaxyproject.org//topics/fair/tutorials/fair-rna/tutorial.html
+    button_tip: View tutorial
+    button_icon: tutorial
+  - title_md: "Persistent Identifiers\n (Visitors: 365)"
+    description_md: Tutorial stored in FAIR Data, Workflows, and Research topic 
+      on the Galaxy Training Network and covering topics related to nan
+    button_link: 
+      https://training.galaxyproject.org//topics/fair/tutorials/fair-persistent-identifiers/tutorial.html
+    button_tip: View tutorial
+    button_icon: tutorial
+  - title_md: "Exporting Workflow Run RO-Crates from Galaxy\n (Visitors: 364)"
+    description_md: Tutorial stored in FAIR Data, Workflows, and Research topic 
+      on the Galaxy Training Network and covering topics related to nan
+    button_link: 
+      https://training.galaxyproject.org//topics/fair/tutorials/ro-crate-in-galaxy/tutorial.html
+    button_tip: View tutorial
+    button_icon: tutorial
+  - title_md: "Metadata\n (Visitors: 317)"
+    description_md: Tutorial stored in FAIR Data, Workflows, and Research topic 
+      on the Galaxy Training Network and covering topics related to nan
+    button_link: 
+      https://training.galaxyproject.org//topics/fair/tutorials/fair-metadata/tutorial.html
+    button_tip: View tutorial
+    button_icon: tutorial
+  - title_md: "FAIR Galaxy Training Material\n (Visitors: 225)"
+    description_md: Tutorial stored in FAIR Data, Workflows, and Research topic 
+      on the Galaxy Training Network and covering topics related to nan
+    button_link: 
+      https://training.galaxyproject.org//topics/fair/tutorials/fair-gtn/tutorial.html
+    button_tip: View tutorial
+    button_icon: tutorial
+  - title_md: "FAIR and its Origins\n (Visitors: 225)"
+    description_md: Tutorial stored in FAIR Data, Workflows, and Research topic 
+      on the Galaxy Training Network and covering topics related to nan
+    button_link: 
+      https://training.galaxyproject.org//topics/fair/tutorials/fair-origin/tutorial.html
+    button_tip: View tutorial
+    button_icon: tutorial
+- id: using_galaxy_and_managing_your_data
+  title: Using Galaxy and Managing your Data
+  heading_md: 'Top 10 most visited tutorials for the Topic : Using Galaxy and Managing
+    your Data'
+  content:
+  - title_md: "Using dataset collections\n (Visitors: 17327)"
+    description_md: Tutorial stored in Using Galaxy and Managing your Data topic
+      on the Galaxy Training Network and covering topics related to nan
+    button_link: 
+      https://training.galaxyproject.org//topics/galaxy-interface/tutorials/collections/tutorial.html
+    button_tip: View tutorial
+    button_icon: tutorial
+  - title_md: "Creating, Editing and Importing Galaxy Workflows\n (Visitors: 6529)"
+    description_md: Tutorial stored in Using Galaxy and Managing your Data topic
+      on the Galaxy Training Network and covering topics related to nan
+    button_link: 
+      https://training.galaxyproject.org//topics/galaxy-interface/tutorials/workflow-editor/tutorial.html
+    button_tip: View tutorial
+    button_icon: tutorial
+  - title_md: "Rule Based Uploader\n (Visitors: 5945)"
+    description_md: Tutorial stored in Using Galaxy and Managing your Data topic
+      on the Galaxy Training Network and covering topics related to nan
+    button_link: 
+      https://training.galaxyproject.org//topics/galaxy-interface/tutorials/upload-rules/tutorial.html
+    button_tip: View tutorial
+    button_icon: tutorial
+  - title_md: "Extracting Workflows from Histories\n (Visitors: 3246)"
+    description_md: Tutorial stored in Using Galaxy and Managing your Data topic
+      on the Galaxy Training Network and covering topics related to nan
+    button_link: 
+      https://training.galaxyproject.org//topics/galaxy-interface/tutorials/history-to-workflow/tutorial.html
+    button_tip: View tutorial
+    button_icon: tutorial
+  - title_md: "Automating Galaxy workflows using the command line\n (Visitors: 3239)"
+    description_md: Tutorial stored in Using Galaxy and Managing your Data topic
+      on the Galaxy Training Network and covering topics related to nan
+    button_link: 
+      https://training.galaxyproject.org//topics/galaxy-interface/tutorials/workflow-automation/tutorial.html
+    button_tip: View tutorial
+    button_icon: tutorial
+  - title_md: "Using Workflow Parameters\n (Visitors: 2147)"
+    description_md: Tutorial stored in Using Galaxy and Managing your Data topic
+      on the Galaxy Training Network and covering topics related to nan
+    button_link: 
+      https://training.galaxyproject.org//topics/galaxy-interface/tutorials/workflow-parameters/tutorial.html
+    button_tip: View tutorial
+    button_icon: tutorial
+  - title_md: "Workflow Reports\n (Visitors: 1015)"
+    description_md: Tutorial stored in Using Galaxy and Managing your Data topic
+      on the Galaxy Training Network and covering topics related to nan
+    button_link: 
+      https://training.galaxyproject.org//topics/galaxy-interface/tutorials/workflow-reports/tutorial.html
+    button_tip: View tutorial
+    button_icon: tutorial
+  - title_md: "Rule Based Uploader: Advanced\n (Visitors: 924)"
+    description_md: Tutorial stored in Using Galaxy and Managing your Data topic
+      on the Galaxy Training Network and covering topics related to nan
+    button_link: 
+      https://training.galaxyproject.org//topics/galaxy-interface/tutorials/upload-rules-advanced/tutorial.html
+    button_tip: View tutorial
+    button_icon: tutorial
+  - title_md: "Annotate, prepare tests and publish Galaxy workflows in workflow registries\n\
+      \ (Visitors: 460)"
+    description_md: Tutorial stored in Using Galaxy and Managing your Data topic
+      on the Galaxy Training Network and covering topics related to nan
+    button_link: 
+      https://training.galaxyproject.org//topics/galaxy-interface/tutorials/workflow-fairification/tutorial.html
+    button_tip: View tutorial
+    button_icon: tutorial
+  - title_md: "Creating high resolution images of Galaxy Workflows\n (Visitors: 382)"
+    description_md: Tutorial stored in Using Galaxy and Managing your Data topic
+      on the Galaxy Training Network and covering topics related to nan
+    button_link: 
+      https://training.galaxyproject.org//topics/galaxy-interface/tutorials/workflow-posters/tutorial.html
+    button_tip: View tutorial
+    button_icon: tutorial
